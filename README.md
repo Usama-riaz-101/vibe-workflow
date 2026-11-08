@@ -2,6 +2,8 @@
 
 **Vibe Workflow** is a free, open-source node-based AI workflow builder — the self-hostable alternative to Weavy AI, Freepik Spaces, Krea Nodes, and FloraFauna AI. Designed around "Artistic Intelligence," it gives creators and developers a visual, modular pipeline editor for designing, editing, and composing AI-generated images and video — with no vendor lock-in.
 
+**Live app:** https://vibe-workflow.vercel.app
+
 <img width="1024" height="1024" alt="Vibe Workflow — open-source AI workflow builder alternative to Weavy AI, Krea Nodes, Freepik Spaces, FloraFauna AI" src="https://github.com/user-attachments/assets/f603eb13-3b4f-4c9a-9a6a-c4cc3a94f7a6" />
 
 > **Looking for a Weavy AI alternative? A Krea Nodes alternative? A Freepik Spaces alternative? A FloraFauna AI alternative?**
@@ -18,7 +20,7 @@
 
 ## Hosted Version
 
-The app is deployed on Vercel from this repository. Running a workflow needs `MU_API_KEY` on the API project.
+The live app is at **[vibe-workflow.vercel.app](https://vibe-workflow.vercel.app)**. Running a workflow needs `MU_API_KEY` on the API project.
 
 ---
 
